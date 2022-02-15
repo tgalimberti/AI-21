@@ -1,2 +1,2 @@
 # AI-21
-Implementations of a variety of optimisation techniques
+University assignments involving implementations of a variety of optimisation techniques. 

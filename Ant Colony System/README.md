@@ -7,7 +7,7 @@ The TSP instances solved in `Ant Colony System for the TSP.ipynb` in order of in
 Static hyperparameters:
 1. Time per run = 180 seconds
 2. Number of ants = 10
-3. Starting pheromone 1/d_NN (edges assigned pheromone equal to the inverse of the nearest neighbour heuristic for that problem)
+3. Starting pheromone = 1 / d_NN (edges assigned pheromone equal to the inverse of the nearest neighbour heuristic for that problem)
 4. Local/global pheromone evaporation factor = 0.1
 5. Candidate list size = 15
 
@@ -19,7 +19,7 @@ Variations in the runs
 *References*
 
 [1] Ant Colony System: A Cooperative Learning
-Approach to the Traveling Salesman Problem
+Approach to the Traveling Salesman Problem; Dorigo, Gambardella
 
 [2] Solving Symmetric and Asymmetric TSPs
-by Ant Colonies
+by Ant Colonies; Dorigo, Gambardella
